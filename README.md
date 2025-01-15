@@ -5,8 +5,8 @@ Welcome to my GitHub! I'm a Data Analyst passionate about uncovering insights fr
 
 ## 🌟 About Me
 - 🎓 **Educational Background:**
-    - ** Diploma in Data Science ** from BrainStation
-    - ** Bachelor of Science (Honors)** from Toronto Metropolitan University (CGPA: 3.98/4.33)
+    - **Diploma in Data Science** from BrainStation
+    - **Bachelor of Science (Honors)** from Toronto Metropolitan University (CGPA: 3.98/4.33)
 - 📊 **Data-Driven Problem Solver**: From optimizing grocery delivery systems to predicting sentiment in Amazon reviews, I thrive on solving real-world challenges with data.
 - 🚀 **Continuous Learner**: Always exploring new tools and technologies to expand my skill set.
 
